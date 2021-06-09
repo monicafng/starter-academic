@@ -31,8 +31,8 @@ experience:
     date_end: '2020-07-31'
     description: |2-
         
-        * Prepared weekly sales report using Excel for management team.
-        * Performed ticketing using the Amadeus reservation systems, including reissue, revalidation, refund, rerouting, and recalculation of fares.
+        * Prepared weekly sales report using Excel for management team, validated data from the automated sales report extracted from the Airlines Reporting Corporation (ARC) using Excel functions and reduced manual effort by 5 hours per week.
+        * Performed ticketing using Amadeus reservation systems including reissue, revalidation, refund and rerouting of tickets and recalculation of fares.
         
   - title: Operations Intern
     company: WJ Global Inc.
@@ -43,9 +43,9 @@ experience:
     date_end: '2020-02-28'
     description: |2-
     
-        * Exceeded online profitability goals by an average of 30% during summer 2019.
-        * Booked, issued and performed exchanges and/or refunds of an average of 100 flight tickets per week.
-        * Processed online reservations and effectively communicated with providers.
+        * Discovered potential customers with interrupted bookings and followed up to complete transactions, exceeded online profitability goals by 30% for three consecutive months (Summer 2019).
+        * Processed online reservations, communicated timely with providers and customers, and ensured smooth travel experiences.
+        * Facilitated bookings, ticket issuance, exchanges and/or refunds for ~100 flight tickets per week.
 
   - title: Retail Sales Clerk
     company: The Walt Disney Company
