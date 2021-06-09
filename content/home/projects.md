@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: EDA
+    tag: EDA
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
