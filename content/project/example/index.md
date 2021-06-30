@@ -1,5 +1,4 @@
 ---
-cms_exclude: true
 title: Bike Share Case Study
 summary: Exploratory data analysis on bike share demand
 tags:
